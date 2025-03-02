@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 body{
+    padding-top: 20px;
     background-color: #f4d04e;
     display: flex;
     flex-direction: column;
