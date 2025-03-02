@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    padding-top: 2vh;
+    padding-top: 4vh;
     background-color: #f4d04e;
     display: flex;
     flex-direction: column;
@@ -25,7 +25,7 @@ main{
     border-radius: 20px;
     font-size: 0.875rem;
     color: #111111;
-    box-shadow: 0.375rem 0.375rem;
+    box-shadow: 0.625rem 0.625rem;
 }
 .illus{
     width: 100%;
