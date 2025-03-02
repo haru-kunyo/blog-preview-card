@@ -60,6 +60,7 @@ summary p:last-of-type{
     font-weight: 500;
     margin-bottom: 24px;
     color: #6B6B6B;
+    line-height: 1.5rem;
 }
 main > footer{
     display: inline-flex;
