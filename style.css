@@ -16,7 +16,7 @@ body{
 main{
     width: 85%;
     max-width: 24rem;
-    min-height: 522px;
+    max-height: 522px;
     border: 1px solid black;
     background-color: #fff;
     padding: 1.5rem;
